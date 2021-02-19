@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![SimplyProgger's Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
-
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan)](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan)
+[![Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
 
