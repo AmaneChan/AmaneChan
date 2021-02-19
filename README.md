@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **AmaneChan/AmaneChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=AmaneChan)](https://github.com/anuraghazra/github-readme-stats)
+[![SimplyProgger's Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
 
 [![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan&theme=react)](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan&theme=react)
 
-
-[![SimplyProgger's Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
