@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![SimplyProgger's Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
 
-[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan&theme=react)](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan&theme=react)
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan)](https://enigmatic-harbor-42642.herokuapp.com/?name=AmaneChan)
 
