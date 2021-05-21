@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan)
+[![Github Stats](https://github-stats-alpha.vercel.app/api/?username=AmaneChan&theme=vue)](https://github-stats-alpha.vercel.app/api/?username=AmaneChan&theme=vue)
 
