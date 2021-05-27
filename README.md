@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=amanechan&show_icons=true&title_color=69C&border_color=8BB&text_color=9CF&icon_color=FC9&bg_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
 [![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amanechan&layout=compact&title_color=69C&border_color=8BB&text_color=9CF&icon_color=FC9&bg_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
